@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "japaneseName": "齋藤義弘",
+    "romanName": "Saito Yoshihiro",
+    "department": "制作局",
+    "position": "局長",
+    "grade": "3"
+  },
+  {
+    "id": 2,
+    "japaneseName": "大貫真穂",
+    "romanName": "Onuki Maho",
+    "department": "制作局",
+    "position": "副局長",
+    "grade": "3"
+  },
+  {
+    "id": 3,
+    "japaneseName": "東知弘",
+    "romanName": "Azuma Tomohiro",
+    "department": "制作局",
+    "position": "副局長",
+    "grade": "3"
+  },
+  {
+    "id": 4,
+    "japaneseName": "鈴木翔也",
+    "romanName": "Suzuki Shoya",
+    "department": "制作局",
+    "position": "三年会",
+    "grade": "3"
+  },
+  {
+    "id": 5,
+    "japaneseName": "あいうえお",
+    "romanName": "Aiueo",
+    "department": "渉外局",
+    "position": "継続",
+    "grade": "2"
+  },
+  {
+    "id": 11,
+    "japaneseName": "なにぬねの",
+    "romanName": "Naninuneno",
+    "department": "渉外局",
+    "position": "継続",
+    "grade": "2"
+  },
+  {
+    "id": 12,
+    "japaneseName": "たちつてと",
+    "romanName": "Tachitsuteto",
+    "department": "渉外局",
+    "position": "継続",
+    "grade": "2"
+  },
+  {
+    "id": 7,
+    "japaneseName": "中保翔貴",
+    "romanName": "Nakaho Shoki",
+    "department": "執行部",
+    "position": "副委員長",
+    "grade": "3"
+  },
+  {
+    "id": 8,
+    "japaneseName": "前冬磨",
+    "romanName": "Mae Toma",
+    "department": "執行部",
+    "position": "委員長",
+    "grade": "3"
+  },
+  {
+    "japaneseName": "田中太郎",
+    "romanName": "Tanaka Taro",
+    "department": "広報局",
+    "position": "局長",
+    "grade": "3",
+    "id": 9
+  },
+  {
+    "japaneseName": "佐藤太郎",
+    "romanName": "Sato Taro",
+    "department": "演出局",
+    "position": "副局長",
+    "grade": "3",
+    "id": 10
+  },
+  {
+    "japaneseName": "日向翔陽",
+    "romanName": "Hinata Shoyo",
+    "department": "運営局",
+    "position": "新規",
+    "grade": "1",
+    "id": "fc121ad9-a2d9-419a-8c7a-ed6c51839604"
+  },
+  {
+    "japaneseName": "高橋洋介",
+    "romanName": "Takahashi Yosuke",
+    "department": "開発局",
+    "position": "継続",
+    "grade": "2",
+    "id": "736698b9-9c6c-4395-953a-75a2d6c9633e"
+  }
+]
